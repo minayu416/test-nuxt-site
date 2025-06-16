@@ -1,4 +1,0 @@
-const index_vue_vue_type_style_index_0_scoped_94ae255a_lang = ".blog-list[data-v-94ae255a]{display:grid;gap:2rem}.blog-item[data-v-94ae255a]{background-color:#fff;border-radius:8px;box-shadow:0 2px 8px #0000001a;padding:1.5rem;transition:transform .3s ease}.blog-item[data-v-94ae255a]:hover{transform:translateY(-5px)}.blog-item h2[data-v-94ae255a]{font-size:1.8rem;margin-top:0}.blog-item h2 a[data-v-94ae255a]{color:#333;text-decoration:none;transition:color .3s ease}.blog-item h2 a[data-v-94ae255a]:hover{color:#42b883}.post-meta[data-v-94ae255a]{color:#666;font-size:.9rem;margin-bottom:1rem}.read-more[data-v-94ae255a]{color:#42b883;display:inline-block;font-weight:700;margin-top:1rem;text-decoration:none}.read-more[data-v-94ae255a]:hover{text-decoration:underline}";
-
-export { index_vue_vue_type_style_index_0_scoped_94ae255a_lang as i };
-//# sourceMappingURL=index-styles-1.mjs--Ee-ozo1.mjs.map

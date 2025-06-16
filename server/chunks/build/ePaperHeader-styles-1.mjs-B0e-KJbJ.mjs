@@ -1,4 +1,0 @@
-const ePaperHeader_vue_vue_type_style_index_0_scoped_2c105e87_lang = ".app-header[data-v-2c105e87]{background-color:#333;color:#fff;padding:1rem 0;text-align:center}.app-header nav[data-v-2c105e87]{align-items:center;display:flex;justify-content:space-between;margin:0 auto;max-width:960px;padding:0 1rem}.site-title[data-v-2c105e87]{color:#fff;font-size:1.5rem;font-weight:700;text-decoration:none}.app-header ul[data-v-2c105e87]{display:flex;list-style:none;margin:0;padding:0}.app-header li[data-v-2c105e87]{margin-left:1.5rem}.app-header a[data-v-2c105e87]{color:#fff;text-decoration:none;transition:color .3s ease}.app-header a[data-v-2c105e87]:hover{color:#42b883}";
-
-export { ePaperHeader_vue_vue_type_style_index_0_scoped_2c105e87_lang as e };
-//# sourceMappingURL=ePaperHeader-styles-1.mjs-B0e-KJbJ.mjs.map
