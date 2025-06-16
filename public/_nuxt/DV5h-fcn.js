@@ -1,0 +1,1 @@
+import{c as a,o as t,a as s,m as o}from"./IyUUBAzV.js";const n={class:"main-content"},_={__name:"default",setup(c){return(e,r)=>(t(),a("div",null,[s("main",n,[o(e.$slots,"default")])]))}};export{_ as default};
